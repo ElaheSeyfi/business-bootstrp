@@ -1,6 +1,6 @@
 # business-bootstrp
 
-![2](https://github.com/ElaheSeyfi/Nutritionist/assets/155986797/821c7ff6-3cfa-4a92-826e-6e6ee1dff7c9)
+![1](https://github.com/ElaheSeyfi/business-bootstrp/assets/155986797/38dbec43-a516-4479-942f-04211ef3c738)
 
 - [Demo Project](https://elaheseyfi.github.io/arttichure/)
 
